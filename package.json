@@ -1,0 +1,12 @@
+{
+  "name": "Senal-MD-V2",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot using @whiskeysockets/baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5"
+  }
+}
